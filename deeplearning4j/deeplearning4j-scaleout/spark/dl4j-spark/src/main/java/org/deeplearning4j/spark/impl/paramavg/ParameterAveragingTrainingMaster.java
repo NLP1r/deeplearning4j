@@ -1068,6 +1068,4 @@ public class ParameterAveragingTrainingMaster
             return new ParameterAveragingTrainingMaster(this);
         }
     }
-
-
 }
